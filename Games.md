@@ -1,8 +1,10 @@
 ---
+layout: default
 title: Games
-layout: games
+nav_order: 2
+has_children: true
 ---
 
-Games.
+Games
 
-----
+296 games in total, look for the pages below games to play.

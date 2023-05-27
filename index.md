@@ -1,8 +1,12 @@
 ---
-title: Home
-layout: home
+layout: default
+title: Games
+nav_order: 2
+has_children: true
 ---
 
-This is the monkey3three unblocked games site. Total games: 296
+Home
 
-----
+This is monkey3three unblocked games site.
+
+---

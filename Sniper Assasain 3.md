@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sniper Assasain 1
+title: Sniper Assasain 2
 parent: Sniper Assasain Collection
 nav_order: 2
 ---
